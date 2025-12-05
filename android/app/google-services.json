@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64127210",
+    "project_id": "videodocsapp-5f190",
+    "storage_bucket": "videodocsapp-5f190.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64127210:android:3acb74a4a471d88a879793",
+        "android_client_info": {
+          "package_name": "com.myvideoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17uxLebkX64Ed_Hto_FJzdCSpuprsito"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
